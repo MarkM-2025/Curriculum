@@ -1,4 +1,4 @@
-# 👨‍💻 Tu Nombre Completo
+# 👨‍💻 Marco Vinicio Martínez Erazo
 
 **Estudiante de Desarrollo de Software | Tecnologías: Python, PostgreSQL**
 
